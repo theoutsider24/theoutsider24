@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Key Philosophies
+
+## Test Driven Development
+
+Tests are the best way to challenge the way you think about your software and provide a feedback loop for better design. They also capture the things that you really care about, acting as documentation of the software's requirements and allowing changes to be made in an agile manner
+
+## Empathetic Engineering
+
+The best engineers are those who have strong emotional intelligence and empathy to understand the needs of their stakeholders and those around them to enable meaningful and sustainable delivery.
